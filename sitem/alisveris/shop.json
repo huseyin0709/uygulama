@@ -1,0 +1,56 @@
+{
+    "products": [{
+            "id": "1",
+            "name": "500'lu Kondansator",
+            "price": 65,
+            "categoryID": "1",
+            "description": "500'lu kondansator",
+            "imageUrl": "https://www.robotistan.com/10-uf-16-v-elektrolit-kondansator-19345-21-B.jpg"
+        },
+        {
+            "id": "2",
+            "name": "200'lu Transistor",
+            "price": 57,
+            "categoryID": "1",
+            "description": "200'lu Transistor",
+            "imageUrl": "https://www.direnc.net/d44h11-npn-tht-transistor-to-220-diger-transistorler-stm-55219-15-B.jpg"
+        },
+        {
+            "id": "3",
+            "name": "3'lu Priz",
+            "price": 57,
+            "categoryID": "2",
+            "description": "3'lu Priz",
+            "imageUrl": "https://productimages.hepsiburada.net/s/141/550/110000094001914.jpg/format:webp"
+        },
+        {
+            "id": "4",
+            "name": "Led Ampul",
+            "price": 15,
+            "categoryID": "3",
+            "description": "Led Ampul",
+            "imageUrl": "https://productimages.hepsiburada.net/s/41/550/10698880352306.jpg/format:webp"
+        },
+        {
+            "id": "5",
+            "name": "Florasan Ampul",
+            "price": 15,
+            "categoryID": "3",
+            "description": "Florasan Ampul",
+            "imageUrl": "https://productimages.hepsiburada.net/s/28/550/10219997888562.jpg/format:webp"
+        }
+    ],
+    "categories": [{
+            "id": "1",
+            "name": "Bilesen"
+        },
+        {
+            "id": "2",
+            "name": "Priz"
+        },
+        {
+            "id": "3",
+            "name": "Aydinlatma"
+        }
+    ]
+}
